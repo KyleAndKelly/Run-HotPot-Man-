@@ -27,6 +27,7 @@
 ![](ScreenShots/1.png)
 ![](ScreenShots/2.png)
 
+
 ## Try
 
 -  Clone
@@ -37,7 +38,7 @@ git clone --depth=1 https://github.com/KyleAndKelly/Run-HotPot-Man-
 
 [Build/Run! HotPot Man !.exe](Build/Run!%20HotPot%20Man%20!.exe)
 
-
+![](ScreenShots/3.png)
 
 
 
